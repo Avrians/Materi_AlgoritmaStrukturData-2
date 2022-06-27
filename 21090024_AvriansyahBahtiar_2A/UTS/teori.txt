@@ -1,0 +1,2 @@
+matriks adalah susunan bilangan-bilangan dalam baris atau kolom dengan dibatasi kurung.
+Hubungan dengan Array adalah karena array juga mempunyai baris dan kolom sehingga konsepnya sama dengan matriks.
