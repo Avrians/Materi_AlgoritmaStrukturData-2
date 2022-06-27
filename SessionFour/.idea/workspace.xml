@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbfde174-529b-46dc-9eac-dbf2fc770900" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SessionFour.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SessionFour/Recursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SessionFour/RecursiveDP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SessionFour/SearchNameRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecursiveDP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchNameRecursive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionThree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionThree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionThree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionThree/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionThree/SessionThree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionThree/out/production/SessionThree/DjikstraAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionThree/out/production/SessionThree/SimpleSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionThree/out/production/SessionThree/SimpleSorting22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionThree/src/DjikstraAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionThree/src/SimpleSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionThree/src/SimpleSorting22.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="26Ob6fC6cV5096GJO3kHY0CBS0h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Session6" />
+  </component>
+  <component name="RunManager" selected="Application.SearchNameRecursive">
+    <configuration name="Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursive" />
+      <module name="SessionFour" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveDP" />
+      <module name="SessionFour" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchNameRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchNameRecursive" />
+      <module name="SessionFour" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aa" />
+      <module name="SessionFour" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SearchNameRecursive" />
+        <item itemvalue="Application.Recursive" />
+        <item itemvalue="Application.RecursiveDP" />
+        <item itemvalue="Application.aa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbfde174-529b-46dc-9eac-dbf2fc770900" name="Changes" comment="" />
+      <created>1647297408303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647297408303</updated>
+    </task>
+    <servers />
+  </component>
+</project>
